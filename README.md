@@ -1,7 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-     REPRODUCIBLE RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 Matlab code producing figures in article:
 
 J. Wahlström, I. Skog and P. Händel, "IMU alignment for smartphone-based automotive navigation," 2015 18th International Conference on Information Fusion (Fusion), 2015, pp. 1437-1443.
